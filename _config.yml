@@ -3,7 +3,7 @@ title:               Diffraction Microstructure Imaging in 3D
 tagline:             'A diffraction project'
 description:         'Resources to promote and further develop diffraction microstructure imaging in 3D'
 url:                 https://dmi-3d.github.io/
-baseurl:             'https://github.com/dmi-3D/dmi-3D.github.io'
+# baseurl:             'https://github.com/dmi-3D/dmi-3D.github.io'
 paginate:            5
 permalink:           pretty
 remote_theme:        poole/lanyon
