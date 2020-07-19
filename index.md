@@ -3,7 +3,6 @@ layout: page
 title: Home
 ---
 
-### Content
 
 This website was created during the meeting "Technical Aspects of Synchrotron X-ray and Neutron Measurements for Diffraction Microstructure Imaging" held on July 15, 2020. It should provide a resource to promote and further develop these methods.
 
