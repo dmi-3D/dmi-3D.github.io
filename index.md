@@ -1,7 +1,7 @@
---
+---
 layout: page
-title: About DMI-3D
---
+title: Home
+---
 
 ### Content
 
