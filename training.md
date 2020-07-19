@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ressources for training and education
+title: Resources for training and education
 ---
 
 
