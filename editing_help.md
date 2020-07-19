@@ -1,7 +1,12 @@
-### Content
-This will have to be filled. This is just the basic template right now.
+---
+Layout: page
+title: Help for editing this page
+---
 
-### Welcome to GitHub Pages.
+### Template
+This pages uses the [Lanyon iJeckyll theme](https://github.com/poole/lanyon). If you want to modify the look-and-feel, have a look at the project's instructions.
+
+### Hosted on GitHub Pages.
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
 ### Designer Templates
