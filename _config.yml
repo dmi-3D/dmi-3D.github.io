@@ -6,11 +6,11 @@ url:                 https://dmi-3d.github.io/
 baseurl:             'https://github.com/dmi-3D/dmi-3D.github.io'
 paginate:            5
 permalink:           pretty
-
+remote_theme:        poole/lanyon
 google_analytics: 
 show_downloads: false
 # theme: jekyll-theme-slate
-#remote_theme: poole/lanyon
+
 
 gems:
   - jekyll-mentions
