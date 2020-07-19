@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Bibliographical resources on Diffraction Microstructure Imaging
+title: Bibliographical resources
 ---
 
+The following documents will get you started on Diffraction Microstructure Imaging
 
 ### Books & Book Chapters
 
