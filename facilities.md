@@ -1,3 +1,9 @@
+---
+layout: page
+title: Facilities for DMI-3D
+---
+
+
 # Facilities and Instrumentation for Diffraction Microstructure Imaging.
 This is a non-comprehensive list of beamlines where it is possible to do these types of experiment. 
 

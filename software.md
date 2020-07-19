@@ -1,3 +1,7 @@
+---
+layout: page
+title: Software for DMI-3D
+---
 
 # Links to software packages for Diffraction Microstructure Imaging.
 

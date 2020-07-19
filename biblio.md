@@ -1,4 +1,7 @@
-Bibliographical resources on Diffraction Microstructure Imaging
+---
+layout: page
+title: Bibliographical resources on Diffraction Microstructure Imaging
+---
 
 
 ### Books & Book Chapters
