@@ -25,7 +25,6 @@ Links to software packages for Diffraction Microstructure Imaging.
 * [pymicro](https://github.com/heprom/pymicro)
 * [neper](https://github.com/rquey/neper)
 * [GooseFFT](https://github.com/tdegeus/GooseFFT)
-
 * [Mantid](https://github.com/mantidproject/mantid)
 * [xraylib](https://github.com/tschoonj/xraylib)
 * [silx](https://github.com/silx-kit/silx)
