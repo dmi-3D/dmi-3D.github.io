@@ -10,7 +10,8 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    <a class="sidebar-nav-item{% if page.title == 'What is Diffraction Microstructure Imaging (DMI)?' %} active{% endif %}" href="{{ '/intro' | absolute_url }}">What is DMI?</a>
+	  
+    <a class="sidebar-nav-item" href="{{ '/intro' | absolute_url }}">What is DMI?</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
