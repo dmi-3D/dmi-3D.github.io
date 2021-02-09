@@ -13,10 +13,14 @@
 	  
     <a class="sidebar-nav-item{% if page.title == 'What is Diffraction Microstructure Imaging (DMI)?' %} active{% endif %}" href="{{ '/intro' | absolute_url }}">What is DMI?</a>
 
+    <a class="sidebar-nav-item{% if page.title == 'Facilities for DMI' %} active{% endif %}" href="{{ '/facilities' | absolute_url }}">Facilities</a>
+	  
+     <a class="sidebar-nav-item{% if page.title == 'Software for DMI' %} active{% endif %}" href="{{ '/software' | absolute_url }}">Software</a>
+	  
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+    
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -28,6 +32,8 @@
 	{% endif %}
       {% endif %}
     {% endfor %}
+	  
+    {% endcomment %}  
 
     <a class="sidebar-nav-item" href="https://github.com/dmi-3D">DMI-3D @ GitHub</a>
     <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> --!>

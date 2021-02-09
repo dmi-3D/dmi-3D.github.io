@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Software for DMI-3D
+title: Software for DMI
 ---
 
 Links to software packages for Diffraction Microstructure Imaging.
 
-## General 3D-XRD packages or projects
+## General 3D-XRD / High Energy Diffraction Microscopy (HEDM) Packages
 
 * [Fable-3DXRD](https://github.com/FABLE-3DXRD)
 * [HEXRD](https://github.com/HEXRD)
@@ -14,11 +14,15 @@ Links to software packages for Diffraction Microstructure Imaging.
 * [HEXOMAP](https://github.com/HeLiuCMU/HEXOMAP)
 * [pyxem](https://github.com/pyxem)
 
-## Individual 3D-XRD software packages
+## Micro-Laue Diffraction Packages
+
+* [LaueGo](https://wiki-ext.aps.anl.gov/s34ide/index.php/LaueGo)
+
+## Supporting DMI Software Packages
 
 * [GrainSpotter](https://sourceforge.net/p/fable/code/HEAD/tree/GrainSpotter/trunk/): Grain indexing
 
-## Useful tools
+## Useful Postprocessing and other X-ray Utilities
 
 * [MTeX Toolbox](https://mtex-toolbox.github.io/): texture and grain orientation analysis
 * [DREAM3D](https://github.com/BlueQuartzSoftware/DREAM3D)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facilities for DMI-3D
+title: Facilities for DMI
 ---
 
 
