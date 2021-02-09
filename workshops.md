@@ -8,7 +8,7 @@ As part of advancing DMI techniques, regular workshops are help for the DMI comm
 ## Technical Aspects of Synchrotron X-ray and Neutron Measurements for Diffraction Microstructure Imaging
 ### July 15-27, 2020
 ### Organizing Committee:
-* Thien Phan: Chair, NIST 
+* Thien Phan, Chair, NIST 
 * Darren Pagan, CHESS 
 * Ulrich Lienert, DESY 
 * Adam Creuziger, NIST 
