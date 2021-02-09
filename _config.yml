@@ -1,7 +1,7 @@
 ## Setup
-title:               Diffraction Microstructure Imaging in 3D
-tagline:             'A diffraction project'
-description:         'Resources to promote and further develop <i>Diffraction Microstructure Imaging in 3D</i>'
+title:               Diffraction Microstructure Imaging
+tagline:             'Crystalline Materials in 3-D'
+description:         'Resources to promote and further develop <i>Diffraction Microstructure Imaging</i>'
 url:                 https://dmi-3d.github.io/
 #baseurl:             'https://github.com/dmi-3D/dmi-3D.github.io'
 paginate:            5
