@@ -3,7 +3,7 @@ layout: page
 title: DMI Workshops
 ---
 
-As part of advancing DMI techniques, regular workshops are help for the DMI community to gather and present the state-of-the-art in measurement and science.
+As part of advancing DMI techniques, regular workshops are help for the DMI community to gather and present the state-of-the-art in measurement and science. If you have an idea for hosting a workshop, please contact [Darren Pagan](mailto:dcp5303@psu.edu).
 
 ## Technical Aspects of Synchrotron X-ray and Neutron Measurements for Diffraction Microstructure Imaging
 ### July 15-27, 2020
