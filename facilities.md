@@ -7,7 +7,7 @@ title: Facilities for DMI
 ## Synchrotron Facilities and Instrumentation for Diffraction Microstructure Imaging.
 A non-comprehensive list of instruments where Diffraction Microstructure Imaging measurements can be performed.
 
-##Beamlines
+## Beamlines
 
 ### Advanced Photon Source (APS)
 [1-ID](https://www.aps.anl.gov/Sector-1/1-ID): nf-HEDM, ff-HEDM
@@ -34,7 +34,8 @@ A non-comprehensive list of instruments where Diffraction Microstructure Imaging
 ### SPring-8 
 [Toyota beamline (BL33XU)](http://www.spring8.or.jp/wkg/BL33XU/instrument/lang-en/INS-0000001506/instrument_summary_view): ff-3DXRD, Scanning High-Energy Diffraction
 
-##Laboratory X-ray Capabilities
+## Laboratory X-ray Capabilities
+
 [xnovotech](https://xnovotech.com/): GrainMapper3D
 
 
