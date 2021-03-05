@@ -4,8 +4,10 @@ title: Facilities for DMI
 ---
 
 
-## Facilities and Instrumentation for Diffraction Microstructure Imaging.
-This is a non-comprehensive list of beamlines where it is possible to do these types of experiment. 
+## Synchrotron Facilities and Instrumentation for Diffraction Microstructure Imaging.
+A non-comprehensive list of instruments where Diffraction Microstructure Imaging measurements can be performed.
+
+##Beamlines
 
 ### Advanced Photon Source (APS)
 [1-ID](https://www.aps.anl.gov/Sector-1/1-ID): nf-HEDM, ff-HEDM
@@ -22,13 +24,18 @@ This is a non-comprehensive list of beamlines where it is possible to do these t
 
 [ID06](https://www.esrf.eu/home/UsersAndScience/Experiments/StructMaterials/id06---hard-x-ray-microscope.html): Dark-field microscopy
 
-[ID11](https://www.esrf.eu/UsersAndScience/Experiments/StructMaterials/ID11): ff-3DXRD, DCT
+[ID11](https://www.esrf.eu/UsersAndScience/Experiments/StructMaterials/ID11): ff-3DXRD, DCT, Scanning High-Energy Diffraction
 
 ### PETRA III
 [P07](https://photon-science.desy.de/e58/e176720/e177229/e178413/index_eng.html?preview=preview): nf-3DXRD, ff-3DXRD
 
 [P21.2](https://photon-science.desy.de/e58/e176720/e177229/e298286/e298332/index_eng.html?preview=preview): ff-3DXRD
 
+### SPring-8 
+[Toyota beamline (BL33XU)](http://www.spring8.or.jp/wkg/BL33XU/instrument/lang-en/INS-0000001506/instrument_summary_view): ff-3DXRD, Scanning High-Energy Diffraction
+
+##Laboratory X-ray Capabilities
+[xnovotech](https://xnovotech.com/): GrainMapper3D
 
 
 
