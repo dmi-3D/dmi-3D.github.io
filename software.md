@@ -17,6 +17,7 @@ Links to software packages for Diffraction Microstructure Imaging.
 ## Micro-Laue Diffraction Packages
 
 * [LaueGo](https://wiki-ext.aps.anl.gov/s34ide/index.php/LaueGo)
+* [XMAS](https://sites.google.com/a/lbl.gov/bl12-3-2/user-resources)
 
 ## Supporting DMI Software Packages
 
