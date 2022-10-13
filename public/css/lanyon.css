@@ -424,14 +424,9 @@ a.pagination-item:hover {
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
 .layout-reverse #sidebar-checkbox:checked ~ .wrap,
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
-/*
   -webkit-transform: translateX(-14rem);
       -ms-transform: translateX(-14rem);
           transform: translateX(-14rem);
-*/
-	  -webkit-transform: translateX(1rem);
-      -ms-transform: translateX(1rem);
-          transform: translateX(1rem);
 }
 
 
