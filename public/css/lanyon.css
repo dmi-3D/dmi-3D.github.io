@@ -287,9 +287,9 @@ a.sidebar-nav-item:focus {
   z-index: 10;
   visibility: visible;
 }
-#sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
+#sidebar-checkbox:focus ~ .sidebar,
+#sidebar-checkbox:focus ~ .wrap,
+#sidebar-checkbox:focus ~ .sidebar-toggle {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
