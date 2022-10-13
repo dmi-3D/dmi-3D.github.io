@@ -285,11 +285,11 @@ a.sidebar-nav-item:focus {
 
 #sidebar-checkbox:checked + .sidebar {
   z-index: 10;
-  visibility: visible;
+  visibility: hidden;
 }
-#sidebar-checkbox:focus ~ .sidebar,
-#sidebar-checkbox:focus ~ .wrap,
-#sidebar-checkbox:focus ~ .sidebar-toggle {
+#sidebar-checkbox:checked ~ .sidebar,
+#sidebar-checkbox:checked ~ .wrap,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
