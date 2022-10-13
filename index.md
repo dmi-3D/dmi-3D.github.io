@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+
 ---
 
 The DMI commission was officially approved by the IUCr general assembly in August 2021! Visit our official commission webpage [here](https://www.iucr.org/resources/commissions/diffraction-microstructure-imaging).
