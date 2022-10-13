@@ -285,7 +285,7 @@ a.sidebar-nav-item:focus {
 
 #sidebar-checkbox:checked + .sidebar {
   z-index: 10;
-  visibility: hidden;
+  visibility: visible;
 }
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
