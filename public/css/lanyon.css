@@ -285,7 +285,7 @@ a.sidebar-nav-item:focus {
 
 #sidebar-checkbox:checked + .sidebar {
   z-index: 10;
-  visibility: visible;
+  visibility: hidden;
 }
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
@@ -418,7 +418,7 @@ a.pagination-item:hover {
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
-  right: 1rem;
+  right: 0rem;
 }
 
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
